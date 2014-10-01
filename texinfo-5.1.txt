@@ -1,0 +1,31 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: texinfo-5.1.zip
+       Short Description: Texinfo v5.1 for OS/2
+        Long Description: Texinfo v5.1 for OS/2.
+Texinfo is the official documentation format of the GNU project. It was
+invented by Richard Stallman and Bob Chassell many years ago, loosely based on
+Brian Reid's Scribe and other formatting languages of the time. It is used by
+many non-GNU projects as well.
+
+      Proposed directory
+           for placement: /pub/os2/dev/util
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: Perl 5.8.0, kLIBc v0.6.5
+
+                Replaces: (none)
+
+
+
